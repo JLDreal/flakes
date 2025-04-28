@@ -25,7 +25,8 @@
             rustup
             dioxus-cli
             webkitgtk_4_1
-
+            wasm-pack
+            wasm-bindgen-cli
             curl
             wget
             file
